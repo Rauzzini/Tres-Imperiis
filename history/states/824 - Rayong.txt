@@ -12,7 +12,7 @@ state = {
 	history = {
 		owner = SIA
 		add_core_of = SIA
-		add_to_array = { state_victory_points = 4433 }
+		#add_to_array = { state_victory_points = 4433 }
 
 		buildings = {
 			infrastructure = 1

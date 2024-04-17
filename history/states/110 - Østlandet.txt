@@ -9,12 +9,12 @@ state = {
 	}
 
 	history = {
-		owner = NOR
-		add_core_of = NOR
-		add_to_array = { state_victory_points = 6115 }
-		add_to_array = { state_victory_points = 3136 }
-		add_to_array = { state_victory_points = 11151 }
-		add_to_array = { state_victory_points = 6151 }
+		owner = SCA
+		add_core_of = SCA
+		#add_to_array = { state_victory_points = 6115 }
+		#add_to_array = { state_victory_points = 3136 }
+		#add_to_array = { state_victory_points = 11151 }
+		#add_to_array = { state_victory_points = 6151 }
 
 		victory_points = { 6115 12 } #Oslo
 		victory_points = { 3136 3 } #Elverum

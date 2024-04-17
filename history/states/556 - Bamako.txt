@@ -9,7 +9,7 @@ state = {
 		owner = NFA
 		add_core_of = MLI
 		add_claim_by = NFA
-		add_to_array = { state_victory_points = 12751 }
+		#add_to_array = { state_victory_points = 12751 }
 
 		victory_points = { 12751 1 } #Bamako
 

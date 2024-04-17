@@ -13,8 +13,8 @@ state = {
 		owner = JAP
 		add_core_of = JAP
 
-		add_to_array = { state_victory_points = 4102 }
-		add_to_array = { state_victory_points = 11925 }
+		#add_to_array = { state_victory_points = 4102 }
+		#add_to_array = { state_victory_points = 11925 }
 
 		victory_points = { 4102 5 } #Kagoshima
 		victory_points = { 11925 10 } #Kumamoto

@@ -12,7 +12,7 @@ state = {
 		owner = DEI
 		add_core_of = DEI
 		add_core_of = INS
-		add_to_array = { state_victory_points = 10237 }
+		#add_to_array = { state_victory_points = 10237 }
 
 		victory_points = { 10237 1 }
 

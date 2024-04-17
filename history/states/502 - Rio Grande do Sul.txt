@@ -7,12 +7,12 @@ state = {
 	history = {
 		owner = BRA
 		add_core_of = BRA
-		add_to_array = { state_victory_points = 10447 }
-		add_to_array = { state_victory_points = 4575 }
-		add_to_array = { state_victory_points = 4589 }
-		add_to_array = { state_victory_points = 7594 }
-		add_to_array = { state_victory_points = 4436 }
-		add_to_array = { state_victory_points = 7638 }
+		#add_to_array = { state_victory_points = 10447 }
+		#add_to_array = { state_victory_points = 4575 }
+		#add_to_array = { state_victory_points = 4589 }
+		#add_to_array = { state_victory_points = 7594 }
+		#add_to_array = { state_victory_points = 4436 }
+		#add_to_array = { state_victory_points = 7638 }
 
 		buildings = {
 			infrastructure = 2

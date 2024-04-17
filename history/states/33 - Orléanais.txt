@@ -9,8 +9,8 @@ state = {
 		owner = FRA
 		add_core_of = FRA
 		add_claim_by = NFA
-		add_to_array = { state_victory_points = 512 }
-		add_to_array = { state_victory_points = 3655 }
+		#add_to_array = { state_victory_points = 512 }
+		#add_to_array = { state_victory_points = 3655 }
 
 		victory_points = { 512 5 } #Orleans
 		victory_points = { 3655 3 } #Bourges

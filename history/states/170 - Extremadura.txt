@@ -11,7 +11,7 @@ state = {
 	history = {
 		owner = SPA
 		add_core_of = SPA
-		add_to_array = { state_victory_points = 11851 }
+		#add_to_array = { state_victory_points = 11851 }
 
 		victory_points = { 11851 1 }
 

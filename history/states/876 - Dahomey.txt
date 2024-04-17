@@ -10,7 +10,7 @@ state = {
 		add_core_of = DAH
 		add_claim_by = MAF
 
-		add_to_array = { state_victory_points = 10919 }
+		#add_to_array = { state_victory_points = 10919 }
 
 		buildings = {
 			infrastructure = 1

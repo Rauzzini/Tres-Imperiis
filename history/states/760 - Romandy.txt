@@ -7,8 +7,8 @@ state = {
 	history = {
 		owner = SWI
 		add_core_of = SWI
-		add_to_array = { state_victory_points = 6666 }
-		add_to_array = { state_victory_points = 11590 }
+		#add_to_array = { state_victory_points = 6666 }
+		#add_to_array = { state_victory_points = 11590 }
 		victory_points = { 6666 15 }
 		victory_points = { 11590 3 }
 

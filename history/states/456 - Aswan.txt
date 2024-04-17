@@ -11,9 +11,9 @@ state = {
 	history = {
 		owner = EGY
 		add_core_of = EGY
-		add_claim_by = TUR
-		add_to_array = { state_victory_points = 12071 }
-		add_to_array = { state_victory_points = 11999 }
+		add_claim_by = OTT
+		#add_to_array = { state_victory_points = 12071 }
+		#add_to_array = { state_victory_points = 11999 }
 
 		buildings = {
 			infrastructure = 1

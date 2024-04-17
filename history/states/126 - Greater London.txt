@@ -8,8 +8,8 @@ state = {
 		owner = ENG
 		add_core_of = ENG
 		add_claim_by = IMP
-		add_to_array = { state_victory_points = 6103 }
-		add_to_array = { state_victory_points = 9239 }
+		#add_to_array = { state_victory_points = 6103 }
+		#add_to_array = { state_victory_points = 9239 }
 
 		victory_points = { 6103 50 }
 		victory_points = { 9239 5 }

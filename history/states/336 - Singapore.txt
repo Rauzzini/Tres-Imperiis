@@ -8,7 +8,7 @@ state = {
 		owner = GEA
 		add_core_of = GEA
 		add_core_of = MAL
-		add_to_array = { state_victory_points = 12299 }
+		#add_to_array = { state_victory_points = 12299 }
 
 		victory_points = { 12299 25 } # Singapore
 

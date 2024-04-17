@@ -9,9 +9,9 @@ state = {
 	}
 
 	history = {
-		owner = TUR
-		add_core_of = TUR
-		add_to_array = { state_victory_points = 3951 }
+		owner = OTT
+		add_core_of = OTT
+		#add_to_array = { state_victory_points = 3951 }
 
 		victory_points = { 3951 3 }
 

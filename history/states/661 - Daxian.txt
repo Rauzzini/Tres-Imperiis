@@ -7,7 +7,7 @@ state = { #Eastern Sichuan
 	history = {
 		owner = SZC
 		add_core_of = SZC
-		add_to_array = { state_victory_points = 11865 } #Daxian
+		#add_to_array = { state_victory_points = 11865 } #Daxian
 
 		buildings = {
 			infrastructure = 3

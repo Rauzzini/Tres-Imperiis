@@ -5,11 +5,11 @@ state = {
 	state_category = ten
 
 	history = {
-		owner = BEL
-		add_core_of = BEL
-		add_to_array = { state_victory_points = 516 }
-		add_to_array = { state_victory_points = 6598 }
-		add_to_array = { state_victory_points = 13068 }
+		owner = FRA
+		add_core_of = FRA
+		#add_to_array = { state_victory_points = 516 }
+		#add_to_array = { state_victory_points = 6598 }
+		#add_to_array = { state_victory_points = 13068 }
 
 		victory_points = { 516 30 } #Brussels
 		victory_points = { 6598 30 } #Antwerp

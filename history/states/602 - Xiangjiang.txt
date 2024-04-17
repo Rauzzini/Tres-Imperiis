@@ -14,8 +14,8 @@ state = { #Xiangjiang
 		owner = HNN
 		add_core_of = HNN
 		add_claim_by = LEP
-		add_to_array = { state_victory_points = 7097 } #Changsha
-		add_to_array = { state_victory_points = 7159 } #Hengyang
+		#add_to_array = { state_victory_points = 7097 } #Changsha
+		#add_to_array = { state_victory_points = 7159 } #Hengyang
 
 		buildings = {
 			infrastructure = 3

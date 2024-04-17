@@ -9,7 +9,7 @@ state = {
 		owner = PAL
 		add_core_of = PAL
 		add_core_of = EGY
-		add_claim_by = TUR
+		add_claim_by = OTT
 		set_demilitarized_zone = yes
 
 		buildings = {

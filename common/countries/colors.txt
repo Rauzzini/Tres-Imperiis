@@ -1,1 +1,113 @@
+### Majors ###
+ENG = {
+    color = rgb { 208 12 39 }
+	color_ui = rgb { 208 12 39 }
+}
+FRA = {
+	color = rgb { 10 54 175 }
+	color_ui = rgb { 10 54 175 }
+}
+GER = {
+    color = rgb { 128 128 128 }
+	color_ui = rgb { 115 115 115 }
+}
+RUS = {
+    color = rgb { 72 143 68 }
+    color_ui = rgb { 72 143 68 }
+}
 
+### Western Europe ###
+FIN = {
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 255 255 255 }
+}
+ITA = {
+	color = rgb { 59 148 65 }
+	color_ui = rgb { 74 186 82 }
+}
+PAP = {
+	color = rgb { 255 255 183 }
+	color_ui = rgb { 255 255 183 }
+}
+POR = {
+	color = rgb { 0 102 0 }
+	color_ui = rgb { 0 102 0 }
+}
+SCA = {
+	color = rgb { 36 100 247 }
+	color_ui = rgb { 47 172 255 }
+}
+SIC = {
+	color = rgb { 204 204 0 }
+	color_ui = rgb { 204 204 0 }
+}
+SPA = {
+	color = rgb { 242 205 94 }
+	color_ui = rgb { 255 255 122 }
+}
+SWI = {
+	color = rgb { 224 5 5 }
+	color_ui = rgb { 193 81 81 }
+}
+
+### Eastern Europe ###
+BAT = {
+	color = rgb { 142 142 128 }
+	color_ui = rgb { 142 142 128 }
+}
+BOS = {
+	color = rgb { 67 158 34 }
+	color_ui = rgb { 67 158 34 }
+}
+BUL = {
+	color = rgb { 51 155 0 }
+	color_ui = rgb { 51 155 0 }
+}
+GRE = {
+	color = rgb { 93 181 227 }
+	color_ui = rgb { 121 235 255 }
+}
+HUN = {
+	color = rgb { 93 153 106 }
+	color_ui = rgb { 67 111 77 }
+}
+LRU = {
+	color = rgb { 153 61 0 }
+	color_ui = rgb { 153 61 0 }
+}
+POL = {
+	color = rgb { 206 97 123 }
+	color_ui = rgb { 255 120 138 }
+}
+ROM = {
+	color = rgb { 208 184 73 }
+	color_ui = rgb { 248 218 87 }
+}
+SER = {
+	color = rgb { 90 80 110 }
+	color_ui = rgb { 90 80 110 }
+}
+
+### Asian ###
+
+### Indian ###
+
+### MidEast ###
+OTT = {
+	color = rgb { 169 17 1 }
+	color_ui = rgb { 169 17 1 }
+}
+
+### South/Central America ###
+
+### African ###
+FNA = {
+	color = rgb { 10 54 175 }
+	color_ui = rgb { 10 54 175 }
+}
+
+### Debug ###
+ZZZ = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}

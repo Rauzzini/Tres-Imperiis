@@ -12,8 +12,8 @@ state = {
 	history = {
 		owner = DOM
 		add_core_of = DOM
-		add_to_array = { state_victory_points = 7660 }
-		add_to_array = { state_victory_points = 4598 }
+		#add_to_array = { state_victory_points = 7660 }
+		#add_to_array = { state_victory_points = 4598 }
 
 		victory_points = { 7660 5 }
 		victory_points = { 4598 1 }

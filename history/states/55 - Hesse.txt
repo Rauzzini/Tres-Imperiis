@@ -8,8 +8,8 @@ state = {
 	history = {
 		owner = GER
 		add_core_of = GER
-		add_to_array = { state_victory_points = 6488 }
-		add_to_array = { state_victory_points = 564 }
+		#add_to_array = { state_victory_points = 6488 }
+		#add_to_array = { state_victory_points = 564 }
 
 		buildings = {
 			infrastructure = 3

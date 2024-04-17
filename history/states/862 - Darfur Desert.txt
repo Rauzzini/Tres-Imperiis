@@ -9,7 +9,7 @@ state = {
 		owner = EGY
 		add_core_of = EGY
 		add_core_of = SUD
-		add_claim_by = TUR
+		add_claim_by = OTT
 
 		buildings = {
 			infrastructure = 1

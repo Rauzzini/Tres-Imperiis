@@ -10,7 +10,7 @@ state = {
 		add_core_of = YUN
 		add_claim_by = LEP
 
-		add_to_array = { state_victory_points = 7577 } #Kaili
+		#add_to_array = { state_victory_points = 7577 } #Kaili
 
 		victory_points = { 7577 10 } #POP 3 + STRAT 1 + POL 0 = SIG 4
 

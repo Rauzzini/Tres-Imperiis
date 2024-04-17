@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = ECU
 		add_core_of = ECU
-		add_to_array = { state_victory_points = 5023 }
+		#add_to_array = { state_victory_points = 5023 }
 
 		victory_points = { 5023 1 }
 

@@ -8,8 +8,8 @@ state = {
 		owner = SOM
 		add_core_of = SOM
 
-		add_to_array = { state_victory_points = 10928 }
-		add_to_array = { state_victory_points = 12840 }
+		#add_to_array = { state_victory_points = 10928 }
+		#add_to_array = { state_victory_points = 12840 }
 
 		victory_points = { 10928 3 } #Mogadishu
 		victory_points = { 12840 1 } #Hobyo

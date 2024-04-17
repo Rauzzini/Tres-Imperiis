@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = LEC
 		add_core_of = LEC
-		add_to_array = { state_victory_points = 7014 } #Shanghai
+		#add_to_array = { state_victory_points = 7014 } #Shanghai
 
 		buildings = {
 			infrastructure = 3

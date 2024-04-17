@@ -13,7 +13,7 @@ state = {
 		owner = FRA
 		add_core_of = FRA
 		add_claim_by = NFA
-		add_to_array = { state_victory_points = 9748 }
+		#add_to_array = { state_victory_points = 9748 }
 
 		victory_points = { 9748 3 } #Clermont-Ferrand
 

@@ -14,7 +14,7 @@ state = {
 		owner = SIA
 		add_core_of = MAL
 		add_claim_by = SIA
-		add_to_array = { state_victory_points = 7329 }
+		#add_to_array = { state_victory_points = 7329 }
 		victory_points = { 7329 2 } # Kota Bahru
 
 		buildings = {

@@ -10,7 +10,7 @@ state = {
 		add_claim_by = SRI
 		add_claim_by = ITA
 		add_claim_by = SRD
-		add_to_array = { state_victory_points = 9990 }
+		#add_to_array = { state_victory_points = 9990 }
 
 		victory_points = { 9990 2 } #Reggio di Calabria
 

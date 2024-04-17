@@ -12,9 +12,9 @@ state = {
 	history = {
 		owner = SPA
 		add_core_of = SPA
-		add_to_array = { state_victory_points = 3816 }
-		add_to_array = { state_victory_points = 9840 }
-		add_to_array = { state_victory_points = 7213 }
+		#add_to_array = { state_victory_points = 3816 }
+		#add_to_array = { state_victory_points = 9840 }
+		#add_to_array = { state_victory_points = 7213 }
 
 		victory_points = { 3816 3 }
 		victory_points = { 9840 1 }

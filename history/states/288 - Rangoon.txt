@@ -13,8 +13,8 @@ state = {
 	history = {
 		owner = BRM
 		add_core_of = BRM
-		add_to_array = { state_victory_points = 1330 }
-		add_to_array = { state_victory_points = 12256 }
+		#add_to_array = { state_victory_points = 1330 }
+		#add_to_array = { state_victory_points = 12256 }
 
 		victory_points = { 1330 10 } # Yangon
 		victory_points = { 12256 1 } # Toungoo

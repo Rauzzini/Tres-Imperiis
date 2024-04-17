@@ -9,7 +9,7 @@ state = {
 		add_core_of = HAW
 		add_core_of = USA
 
-		add_to_array = { state_victory_points = 13052 }
+		#add_to_array = { state_victory_points = 13052 }
 
 		victory_points = { 13052 1 }
 

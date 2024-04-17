@@ -8,6 +8,7 @@ name="Tres Imperiis: Somnium Romae"
 supported_version="1.14.4"
 
 replace_path="common/countries"
+replace_path="common/country_tags"
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="history/units"

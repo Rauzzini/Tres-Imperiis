@@ -10,11 +10,11 @@ state = {
 	}
 
 	history = {
-		owner = CZE
-		add_core_of = CZE
-		add_to_array = { state_victory_points = 3569 }
-		add_to_array = { state_victory_points = 6562 }
-		add_to_array = { state_victory_points = 9567 }
+		owner = GER
+		add_core_of = GER
+		#add_to_array = { state_victory_points = 3569 }
+		#add_to_array = { state_victory_points = 6562 }
+		#add_to_array = { state_victory_points = 9567 }
 		victory_points = { 3569 10 } #Brno
 		victory_points = { 6562 5 } #Olomouc
 		victory_points = { 9567 3 } #Ostrava

@@ -7,8 +7,8 @@ state = {
 	history = {
 		owner = SAF
 		add_core_of = SAF
-		add_to_array = { state_victory_points = 10668 }
-		add_to_array = { state_victory_points = 13060 }
+		#add_to_array = { state_victory_points = 10668 }
+		#add_to_array = { state_victory_points = 13060 }
 
 		buildings = {
 			infrastructure = 1

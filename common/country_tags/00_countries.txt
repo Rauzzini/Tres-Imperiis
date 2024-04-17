@@ -1,0 +1,41 @@
+### Majors ###
+ENG = "countries/WestEur.txt" #United Kingdom of Great Britain Islands
+FRA = "countries/WestEur.txt" #French Empire
+GER = "countries/WestEur.txt" #German Empire
+RUS = "countries/EastEur.txt" #Russian Empire
+
+### Western Europe ###
+FIN = "countries/WestEur.txt" #Grand Duchy of Finland
+ITA = "countries/WestEur.txt" #United Kingdom of Italy
+PAP = "countries/WestEur.txt" #Papal State
+POR = "countries/WestEur.txt" #Kingdom of Portugal
+SCA = "countries/WestEur.txt" #United Kingdom of Scandinavia
+SIC = "countries/WestEur.txt" #Kingdom of Two Sicilia
+SPA = "countries/WestEur.txt" #Spanish Kingdom
+SWI = "countries/WestEur.txt" #Federation of Switzerland
+
+### Eastern Europe ###
+BAT = "countries/EastEur.txt" #Governor-General of the Baltics
+BOS = "countries/EastEur.txt" #Bosnia
+BUL = "countries/EastEur.txt" #Tsardom of Bulgaria
+GRE = "countries/EastEur.txt" #Kingdom of Greece
+HUN = "countries/EastEur.txt" #Kingdom of Hungary
+LRU = "countries/EastEur.txt" #Governor-General of Little Russia
+POL = "countries/EastEur.txt" #Poland
+ROM = "countries/EastEur.txt" #Kingdom of Romania
+SER = "countries/EastEur.txt" #Serbia
+
+### Asian ###
+
+### Indian ###
+
+### MidEast ###
+OTT = "countries/Asian.txt" #The Sublime Ottoman State
+
+### South/Central America ###
+
+### African ###
+FNA = "countries/African.txt" #French North Africa
+
+### Debug ###
+ZZZ = "countries/WestEur.txt" #Debug State

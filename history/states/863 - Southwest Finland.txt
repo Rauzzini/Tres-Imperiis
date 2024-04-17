@@ -7,9 +7,9 @@ state = {
 	history = {
 		owner = FIN
 		add_core_of = FIN
-		add_to_array = { state_victory_points = 3083 }
-		add_to_array = { state_victory_points = 3117 }
-		add_to_array = { state_victory_points = 169 }
+		#add_to_array = { state_victory_points = 3083 }
+		#add_to_array = { state_victory_points = 3117 }
+		#add_to_array = { state_victory_points = 169 }
 
 		victory_points = { 3083 3 } #Turku
 		victory_points = { 3117 2 } #Pori

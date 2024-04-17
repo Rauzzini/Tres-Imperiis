@@ -11,12 +11,12 @@ state = {
 	}
 
 	history = {
-		owner = ALB
-		add_core_of = ALB
-		add_to_array = { state_victory_points = 9914 }
-		add_to_array = { state_victory_points = 11767 }
-		add_to_array = { state_victory_points = 13661 }
-		add_to_array = { state_victory_points = 13864 }
+		owner = BUL
+		add_core_of = BUL
+		#add_to_array = { state_victory_points = 9914 }
+		#add_to_array = { state_victory_points = 11767 }
+		#add_to_array = { state_victory_points = 13661 }
+		#add_to_array = { state_victory_points = 13864 }
 
 		victory_points = { 9914 5 } #Tirana
 		victory_points = { 11767 2 } #Vlorë

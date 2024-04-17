@@ -10,7 +10,7 @@ state = {
 		add_core_of = USA
 		add_claim_by = JAP
 
-		add_to_array = { state_victory_points = 12140 }
+		#add_to_array = { state_victory_points = 12140 }
 
 		victory_points = { 12140 1 }
 

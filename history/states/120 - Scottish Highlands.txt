@@ -14,8 +14,8 @@ state = {
 		owner = ENG
 		add_core_of = ENG
 		add_claim_by = IMP
-		add_to_array = { state_victory_points = 284 }
-		add_to_array = { state_victory_points = 6062 }
+		#add_to_array = { state_victory_points = 284 }
+		#add_to_array = { state_victory_points = 6062 }
 
 		victory_points = { 284 1 } #Oban
 		victory_points = { 6062 1 } #Stornoway

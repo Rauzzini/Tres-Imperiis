@@ -9,8 +9,8 @@ state = {
 		owner = BAT
 		add_core_of = BAT
 		add_core_of = LAT
-		add_to_array = { state_victory_points = 6342 }
-		add_to_array = { state_victory_points = 9262 }
+		#add_to_array = { state_victory_points = 6342 }
+		#add_to_array = { state_victory_points = 9262 }
 
 		victory_points = { 6342 1 }
 		victory_points = { 9262 2 }

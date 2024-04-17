@@ -8,8 +8,8 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
-		add_to_array = { state_victory_points = 10407 }
-		add_to_array = { state_victory_points = 1843 }
+		#add_to_array = { state_victory_points = 10407 }
+		#add_to_array = { state_victory_points = 1843 }
 
 		victory_points = { 10407 3 } #Tallahassee
 		victory_points = { 1843 10 } #Miami

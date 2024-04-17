@@ -5,9 +5,9 @@ state = {
 	state_category = zero_island
 
 	history = {
-		owner = DEN
-		add_core_of = DEN
-		add_to_array = { state_victory_points = 13003 }
+		owner = SCA
+		add_core_of = SCA
+		#add_to_array = { state_victory_points = 13003 }
 
 		victory_points = { 13003 1 } #Torshavn
 

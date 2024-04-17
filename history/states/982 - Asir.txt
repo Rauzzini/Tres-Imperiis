@@ -8,8 +8,8 @@ state = {
 		owner = YEM
 		add_core_of = YEM
 		add_core_of = HEJ
-		add_to_array = { state_victory_points = 8073 }
-		add_to_array = { state_victory_points = 13664 }
+		#add_to_array = { state_victory_points = 8073 }
+		#add_to_array = { state_victory_points = 13664 }
 
 		victory_points = { 8073 1 } #Jazan
 		victory_points = { 13664 1 } #Abha

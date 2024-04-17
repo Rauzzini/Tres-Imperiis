@@ -7,9 +7,9 @@ state = {
 	history = {
 		owner = SOM
 		add_core_of = SOM
-		add_to_array = { state_victory_points = 5068 }
-		add_to_array = { state_victory_points = 10921 }
-		add_to_array = { state_victory_points = 13496 }
+		#add_to_array = { state_victory_points = 5068 }
+		#add_to_array = { state_victory_points = 10921 }
+		#add_to_array = { state_victory_points = 13496 }
 
 		victory_points = { 5068 1 } #Hargeysa
 		victory_points = { 10921 2 } #Las Khorey

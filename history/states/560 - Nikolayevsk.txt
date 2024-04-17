@@ -12,7 +12,7 @@ state = {
 		owner = RUS
 		add_core_of = RUS
 		add_core_of = TRM
-		add_to_array = { state_victory_points = 12559 }
+		#add_to_array = { state_victory_points = 12559 }
 
 		buildings = {
 			infrastructure = 2

@@ -7,7 +7,7 @@ state = { # Fuzhou
 	history = {
 		owner = LEC
 		add_core_of = LEC
-		add_to_array = { state_victory_points = 4196 } #Fuzhou
+		#add_to_array = { state_victory_points = 4196 } #Fuzhou
 
 		buildings = {
 			infrastructure = 2

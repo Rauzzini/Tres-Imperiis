@@ -8,7 +8,7 @@ state = {
 		owner = GEA
 		add_claim_by = GEA
 		add_core_of = VIN
-		add_to_array = { state_victory_points = 12133 }
+		#add_to_array = { state_victory_points = 12133 }
 
 		victory_points = { 12133 2 } #Can Tho
 

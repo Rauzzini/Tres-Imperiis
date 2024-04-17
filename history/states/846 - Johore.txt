@@ -12,8 +12,8 @@ state = {
 		owner = GEA
 		add_claim_by = GEA
 		add_core_of = MAL
-		add_to_array = { state_victory_points = 10313 }
-		add_to_array = { state_victory_points = 7427 }
+		#add_to_array = { state_victory_points = 10313 }
+		#add_to_array = { state_victory_points = 7427 }
 		victory_points = { 10313 7 } # Johor Bahru
 		victory_points = { 7427 1 } # Malacca
 		buildings = {

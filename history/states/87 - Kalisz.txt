@@ -5,10 +5,10 @@ state = {
 	state_category = five
 
 	history = {
-		owner = POL
-		add_core_of = POL
-		add_to_array = { state_victory_points = 9546 }
-		add_to_array = { state_victory_points = 584 }
+		owner = GER
+		add_core_of = GER
+		#add_to_array = { state_victory_points = 9546 }
+		#add_to_array = { state_victory_points = 584 }
 
 		buildings = {
 			infrastructure = 3
@@ -21,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		493 548 584 6401 9439 9546 11428 11515
+		493 548 584 3586 6401 9439 9546 11428 11515
 	}
 }
 

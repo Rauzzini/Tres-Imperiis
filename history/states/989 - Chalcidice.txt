@@ -5,9 +5,9 @@ state = {
 	state_category = four
 
 	history = {
-		owner = GRE
-		add_core_of = GRE
-		add_to_array = { state_victory_points = 11818 }
+		owner = BUL
+		add_core_of = BUL
+		#add_to_array = { state_victory_points = 11818 }
 
 		buildings = {
 			infrastructure = 2

@@ -11,8 +11,8 @@ state = {
 	history = {
 		owner = PAN
 		add_core_of = PAN
-		add_to_array = { state_victory_points = 13681 }
-		add_to_array = { state_victory_points = 13683 }
+		#add_to_array = { state_victory_points = 13681 }
+		#add_to_array = { state_victory_points = 13683 }
 
 		victory_points = { 13681 5 } #Ciudad de Panamá
 		victory_points = { 13683 1 } #David

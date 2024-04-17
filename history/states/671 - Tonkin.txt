@@ -12,7 +12,7 @@ state = {
 		owner = GEA
 		add_claim_by = GEA
 		add_core_of = VIN
-		add_to_array = { state_victory_points = 4075 }
+		#add_to_array = { state_victory_points = 4075 }
 
 		victory_points = { 4075 15 } # Hanoi (+Haiphong)
 

@@ -7,8 +7,8 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
-		add_to_array = { state_victory_points = 4565 }
-		add_to_array = { state_victory_points = 4464 }
+		#add_to_array = { state_victory_points = 4565 }
+		#add_to_array = { state_victory_points = 4464 }
 
 		victory_points = { 4565 5 } #Jackson
 		victory_points = { 4464 2 } #Biloxi

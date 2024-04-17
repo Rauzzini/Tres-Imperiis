@@ -9,9 +9,9 @@ state = {
 		add_core_of = HND
 		add_claim_by = RAJ
 		add_claim_by = PRF
-		add_to_array = { state_victory_points = 4299 }
-		add_to_array = { state_victory_points = 12137 }
-		add_to_array = { state_victory_points = 4459 }
+		#add_to_array = { state_victory_points = 4299 }
+		#add_to_array = { state_victory_points = 12137 }
+		#add_to_array = { state_victory_points = 4459 }
 		victory_points = { 4299 3 } #Lucknow
 		victory_points = { 12137 1 } #Cawnpore
 		victory_points = { 4459 1 } #Gorakhpur

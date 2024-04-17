@@ -12,7 +12,7 @@ state = {
 		owner = GEA
 		add_claim_by = GEA
 		add_core_of = CAM
-		add_to_array = { state_victory_points = 7645 }
+		#add_to_array = { state_victory_points = 7645 }
 		victory_points = { 7645 1 } #Stung Treng/Chiang Taeng/Xiangteng
 
 		buildings = {

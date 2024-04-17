@@ -6,9 +6,9 @@ state = {
 	local_supplies = 12.0
 
 	history = {
-		owner = AUS
-		add_core_of = AUS
-		add_to_array = { state_victory_points = 11618 }
+		owner = GER
+		add_core_of = GER
+		#add_to_array = { state_victory_points = 11618 }
 
 		victory_points = { 11618 2 } #Innsbruck
 

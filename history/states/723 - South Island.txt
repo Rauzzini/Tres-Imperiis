@@ -12,8 +12,8 @@ state = {
 		owner = AST
 		add_core_of = AST
 		add_core_of = NZL
-		add_to_array = { state_victory_points = 2197 }
-		add_to_array = { state_victory_points = 2211 }
+		#add_to_array = { state_victory_points = 2197 }
+		#add_to_array = { state_victory_points = 2211 }
 		victory_points = { 2197 1 } #Christchurch
 		victory_points = { 2211 1 } #Dunedin
 

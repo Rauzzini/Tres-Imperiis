@@ -9,7 +9,7 @@ state = {
 		add_core_of = SQI
 		add_core_of = QIE
 
-		add_to_array = { state_victory_points = 7189 } #Dezhou
+		#add_to_array = { state_victory_points = 7189 } #Dezhou
 
 		victory_points = { 7189 5 } #POP 2 + STRAT 1 + POL 0 = SIG 3
 

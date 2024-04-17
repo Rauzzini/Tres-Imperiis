@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = ROM
 		add_core_of = ROM
-		add_to_array = { state_victory_points = 6652 }
+		#add_to_array = { state_victory_points = 6652 }
 		victory_points = { 6652 5 }
 
 		buildings = {

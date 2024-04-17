@@ -9,9 +9,9 @@ state = {
 		add_core_of = MAF
 		add_core_of = NMB
 
-		add_to_array = { state_victory_points = 4879 }
-		add_to_array = { state_victory_points = 2207 }
-		add_to_array = { state_victory_points = 10957 }
+		#add_to_array = { state_victory_points = 4879 }
+		#add_to_array = { state_victory_points = 2207 }
+		#add_to_array = { state_victory_points = 10957 }
 
 		victory_points = { 4879 3 }
 		victory_points = { 2207 1 }

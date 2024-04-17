@@ -5,9 +5,9 @@ state = {
 	state_category = one_island
 
 	history = {
-		owner = NFA
-		add_core_of = MLT
-		add_to_array = { state_victory_points = 12003 }
+		owner = ENG
+		add_core_of = ENG
+		#add_to_array = { state_victory_points = 12003 }
 
 		victory_points = { 12003 5 }
 

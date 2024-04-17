@@ -8,8 +8,8 @@ state = {
 		owner = SIA
 		add_core_of = SIA
 		add_core_of = CAM
-		add_to_array = { state_victory_points = 10177 }
-		add_to_array = { state_victory_points = 4302 }
+		#add_to_array = { state_victory_points = 10177 }
+		#add_to_array = { state_victory_points = 4302 }
 
 		victory_points = { 10177 2 } #Battambang/Phra Tabong
 		victory_points = { 4302 1 } #Siem Reap/Siemrath

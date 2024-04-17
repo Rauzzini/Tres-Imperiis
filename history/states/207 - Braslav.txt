@@ -5,10 +5,10 @@ state = {
 	state_category = two
 
 	history = {
-		owner = WHR
-		add_core_of = WHR
-		add_to_array = { state_victory_points = 233 }
-		add_to_array = { state_victory_points = 277 }
+		owner = RUS
+		add_core_of = RUS
+		#add_to_array = { state_victory_points = 233 }
+		#add_to_array = { state_victory_points = 277 }
 
 		victory_points = { 233 2 }
 		victory_points = { 277 1 }

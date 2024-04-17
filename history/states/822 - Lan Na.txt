@@ -12,8 +12,8 @@ state = {
 	history = {
 		owner = SIA
 		add_core_of = SIA
-		add_to_array = { state_victory_points = 1488 }
-		add_to_array = { state_victory_points = 10411 }
+		#add_to_array = { state_victory_points = 1488 }
+		#add_to_array = { state_victory_points = 10411 }
 
 		victory_points = { 1488 5 } #Chiang Mai/Xinme/Xiangmai
 		victory_points = { 10411 2 } #Nakhon Sawan/Nachwanswan/Nakhonsavan

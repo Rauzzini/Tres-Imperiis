@@ -11,10 +11,10 @@ state = {
 	history = {
 		owner = BRA
 		add_core_of = BRA
-		add_to_array = { state_victory_points = 7476 }
-		add_to_array = { state_victory_points = 12977 }
-		add_to_array = { state_victory_points = 8148 }
-		add_to_array = { state_victory_points = 12334 }
+		#add_to_array = { state_victory_points = 7476 }
+		#add_to_array = { state_victory_points = 12977 }
+		#add_to_array = { state_victory_points = 8148 }
+		#add_to_array = { state_victory_points = 12334 }
 
 		victory_points = { 7476 15 } #Belo Horizonte
 		victory_points = { 12977 3 } #Uberlândia

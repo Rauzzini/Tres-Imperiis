@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = FNG
 		add_core_of = FNG
-		add_to_array = { state_victory_points = 1588 } #Qiqihar
+		#add_to_array = { state_victory_points = 1588 } #Qiqihar
 
 		buildings = {
 			infrastructure = 2

@@ -7,7 +7,7 @@ state = { #Chongqing
 	history = {
 		owner = SZC
 		add_core_of = SZC
-		add_to_array = { state_victory_points = 6999 } #Chongqing
+		#add_to_array = { state_victory_points = 6999 } #Chongqing
 
 		buildings = {
 			infrastructure = 3

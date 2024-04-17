@@ -8,7 +8,7 @@ state = {
 		owner = SAU
 		add_core_of = SAU
 		add_claim_by = JBS
-		add_to_array = { state_victory_points = 10923 }
+		#add_to_array = { state_victory_points = 10923 }
 
 		buildings = {
 			infrastructure = 1

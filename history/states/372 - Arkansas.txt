@@ -13,7 +13,7 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
-		add_to_array = { state_victory_points = 12489 }
+		#add_to_array = { state_victory_points = 12489 }
 
 		victory_points = { 12489 3 } #Little Rock
 

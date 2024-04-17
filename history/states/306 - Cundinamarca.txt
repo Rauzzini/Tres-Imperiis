@@ -12,7 +12,7 @@ state = {
 	history = {
 		owner = COL
 		add_core_of = COL
-		add_to_array = { state_victory_points = 10747 }
+		#add_to_array = { state_victory_points = 10747 }
 
 		victory_points = { 10747 15 }
 

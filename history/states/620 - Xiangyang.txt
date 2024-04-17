@@ -8,8 +8,8 @@ state = { #Xiangyang
 	history = {
 		owner = QIE
 		add_core_of = QIE
-		add_to_array = { state_victory_points = 1612 } #Jingzhou
-		add_to_array = { state_victory_points = 4009 } #Xiangyang
+		#add_to_array = { state_victory_points = 1612 } #Jingzhou
+		#add_to_array = { state_victory_points = 4009 } #Xiangyang
 
 		buildings = {
 			infrastructure = 3

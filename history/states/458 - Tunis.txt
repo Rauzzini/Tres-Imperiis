@@ -12,11 +12,11 @@ state = {
 		owner = NFA
 		add_core_of = TUN
 		add_claim_by = NFA
-		add_to_array = { state_victory_points = 11969 }
-		add_to_array = { state_victory_points = 9994 }
-		add_to_array = { state_victory_points = 11921 }
-		add_to_array = { state_victory_points = 7077 }
-		add_to_array = { state_victory_points = 7162 }
+		#add_to_array = { state_victory_points = 11969 }
+		#add_to_array = { state_victory_points = 9994 }
+		#add_to_array = { state_victory_points = 11921 }
+		#add_to_array = { state_victory_points = 7077 }
+		#add_to_array = { state_victory_points = 7162 }
 
 		victory_points = { 11969 20 } #Tunis
 		victory_points = { 9994 5 } #Bizerte

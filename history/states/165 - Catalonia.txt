@@ -8,9 +8,9 @@ state = {
 		owner = SPA
 		add_core_of = SPA
 		add_core_of = CAT
-		add_to_array = { state_victory_points = 9764 }
-		add_to_array = { state_victory_points = 6966 }
-		add_to_array = { state_victory_points = 6927 }
+		#add_to_array = { state_victory_points = 9764 }
+		#add_to_array = { state_victory_points = 6966 }
+		#add_to_array = { state_victory_points = 6927 }
 
 		victory_points = { 9764 20 }
 		victory_points = { 6966 1 }

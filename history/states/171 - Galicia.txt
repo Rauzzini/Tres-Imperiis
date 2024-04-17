@@ -8,8 +8,8 @@ state = {
 		owner = SPA
 		add_core_of = SPA
 		add_core_of = GLC
-		add_to_array = { state_victory_points = 758 }
-		add_to_array = { state_victory_points = 6734 }
+		#add_to_array = { state_victory_points = 758 }
+		#add_to_array = { state_victory_points = 6734 }
 
 		victory_points = { 758 5 }
 		victory_points = { 6734 3 }

@@ -12,7 +12,7 @@ state = {
 		owner = IMP
 		add_core_of = IMP
 		add_core_of = QUE
-		add_to_array = { state_victory_points = 10230 }
+		#add_to_array = { state_victory_points = 10230 }
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1

@@ -8,9 +8,9 @@ state = {
 		owner = ETH
 		add_core_of = ETH
 
-		add_to_array = { state_victory_points = 2072 }
-		add_to_array = { state_victory_points = 13828 }
-		add_to_array = { state_victory_points = 13829 }
+		#add_to_array = { state_victory_points = 2072 }
+		#add_to_array = { state_victory_points = 13828 }
+		#add_to_array = { state_victory_points = 13829 }
 
 		victory_points = { 2072 2 } #Mekelle
 		victory_points = { 13828 1 } #Aksum

@@ -8,11 +8,11 @@ state = {
 		owner = ARG
 		add_core_of = ARG
 		add_core_of = FOP
-		add_to_array = { state_victory_points = 12351 }
-		add_to_array = { state_victory_points = 1639 }
-		add_to_array = { state_victory_points = 12379 }
-		add_to_array = { state_victory_points = 12364 }
-		add_to_array = { state_victory_points = 7621 }
+		#add_to_array = { state_victory_points = 12351 }
+		#add_to_array = { state_victory_points = 1639 }
+		#add_to_array = { state_victory_points = 12379 }
+		#add_to_array = { state_victory_points = 12364 }
+		#add_to_array = { state_victory_points = 7621 }
 
 		victory_points = { 12351 1 }
 		victory_points = { 1639 3 }

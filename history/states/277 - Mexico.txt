@@ -11,8 +11,8 @@ state = {
 	history = {
 		owner = MEX
 		add_core_of = MEX
-		add_to_array = { state_victory_points = 1965 }
-		add_to_array = { state_victory_points = 2008 }
+		#add_to_array = { state_victory_points = 1965 }
+		#add_to_array = { state_victory_points = 2008 }
 
 		victory_points = { 1965 25 }
 		victory_points = { 2008 10 }

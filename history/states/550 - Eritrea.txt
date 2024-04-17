@@ -9,9 +9,9 @@ state = {
 		add_core_of = ERI
 		add_claim_by = ETH
 
-		add_to_array = { state_victory_points = 12723 }
-		add_to_array = { state_victory_points = 12766 }
-		add_to_array = { state_victory_points = 13831 }
+		#add_to_array = { state_victory_points = 12723 }
+		#add_to_array = { state_victory_points = 12766 }
+		#add_to_array = { state_victory_points = 13831 }
 
 		victory_points = { 12723 1 } #Bishia
 		victory_points = { 12766 1 } #Massawa

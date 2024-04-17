@@ -5,9 +5,9 @@ state = {
 	state_category = wasteland
 
 	history = {
-		owner = SWE
-		add_core_of = SWE
-		add_to_array = { state_victory_points = 9147 }
+		owner = SCA
+		add_core_of = SCA
+		#add_to_array = { state_victory_points = 9147 }
 
 		victory_points = { 9147 1 } #Haparanda
 

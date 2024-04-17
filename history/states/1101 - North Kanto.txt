@@ -12,8 +12,8 @@ state = {
 		owner = JAP
 		add_core_of = JAP
 
-		add_to_array = { state_victory_points = 1113 }
-		add_to_array = { state_victory_points = 7016 }
+		#add_to_array = { state_victory_points = 1113 }
+		#add_to_array = { state_victory_points = 7016 }
 
 		victory_points = { 1113 2 } #Utsunomiya
 		victory_points = { 7016 1 } #Mito

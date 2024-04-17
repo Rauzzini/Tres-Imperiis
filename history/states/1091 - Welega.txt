@@ -8,8 +8,8 @@ state = {
 		owner = ETH
 		add_core_of = ETH
 
-		add_to_array = { state_victory_points = 2009 }
-		add_to_array = { state_victory_points = 13821 }
+		#add_to_array = { state_victory_points = 2009 }
+		#add_to_array = { state_victory_points = 13821 }
 
 		victory_points = { 2009 2 } #Asosa
 		victory_points = { 13821 1 } #Dembidollo

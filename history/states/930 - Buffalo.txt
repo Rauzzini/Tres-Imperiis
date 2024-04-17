@@ -11,8 +11,8 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
-		add_to_array = { state_victory_points = 11654 }
-		add_to_array = { state_victory_points = 3733 }
+		#add_to_array = { state_victory_points = 11654 }
+		#add_to_array = { state_victory_points = 3733 }
 
 		buildings = {
 			infrastructure = 4

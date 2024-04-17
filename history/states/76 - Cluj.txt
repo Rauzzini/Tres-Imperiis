@@ -14,7 +14,7 @@ state = {
 		add_core_of = HUN
 		add_core_of = TRS
 		add_claim_by = ROM
-		add_to_array = { state_victory_points = 6711 }
+		#add_to_array = { state_victory_points = 6711 }
 
 		buildings = {
 			infrastructure = 2

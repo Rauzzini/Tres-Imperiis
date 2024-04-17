@@ -11,10 +11,10 @@ state = {
 	history = {
 		owner = YEM
 		add_core_of = YEM
-		add_to_array = { state_victory_points = 10840 }
-		add_to_array = { state_victory_points = 1973 }
-		add_to_array = { state_victory_points = 13836 }
-		add_to_array = { state_victory_points = 13837 }
+		#add_to_array = { state_victory_points = 10840 }
+		#add_to_array = { state_victory_points = 1973 }
+		#add_to_array = { state_victory_points = 13836 }
+		#add_to_array = { state_victory_points = 13837 }
 
 		victory_points = { 10840 5 } #Sana'a
 		victory_points = { 1973 2 } #Taiz

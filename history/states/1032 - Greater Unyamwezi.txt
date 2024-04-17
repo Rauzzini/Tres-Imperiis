@@ -9,8 +9,8 @@ state = {
 		add_core_of = TZN
 		add_claim_by = MAF
 
-		add_to_array = { state_victory_points = 8144 }
-		add_to_array = { state_victory_points = 13317 }
+		#add_to_array = { state_victory_points = 8144 }
+		#add_to_array = { state_victory_points = 13317 }
 
 		victory_points = { 8144 1 } #Tabora
 		victory_points = { 13317 1 } #Muansa

@@ -6,10 +6,10 @@ state = {
 	local_supplies = 8.0
 
 	history = {
-		owner = LIT
-		add_core_of = LIT
-		add_to_array = { state_victory_points = 3320 }
-		add_to_array = { state_victory_points = 3393 }
+		owner = BAT
+		add_core_of = BAT
+		#add_to_array = { state_victory_points = 3320 }
+		#add_to_array = { state_victory_points = 3393 }
 		victory_points = { 3320 10 }
 		victory_points = { 3393 1 }
 

@@ -11,8 +11,8 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
-		add_to_array = { state_victory_points = 1595 }
-		add_to_array = { state_victory_points = 6713 }
+		#add_to_array = { state_victory_points = 1595 }
+		#add_to_array = { state_victory_points = 6713 }
 
 		victory_points = { 1595 15 } #Indianapolis
 		victory_points = { 6713 15 } #Gary

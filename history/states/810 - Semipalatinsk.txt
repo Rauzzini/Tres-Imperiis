@@ -11,8 +11,8 @@ state = {
 	history = {
 		owner = ALO
 		add_core_of = ALO
-		add_to_array = { state_victory_points = 12594 }
-		add_to_array = { state_victory_points = 1864 }
+		#add_to_array = { state_victory_points = 12594 }
+		#add_to_array = { state_victory_points = 1864 }
 		victory_points = { 12594 3 } #Semipalatinsk
 		victory_points = { 1864 1 } #Ust-Kamenogorsk
 

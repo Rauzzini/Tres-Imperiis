@@ -5,12 +5,12 @@ state = {
 	state_category = three
 
 	history = {
-		owner = MOR
-		add_core_of = MOR
-		add_to_array = { state_victory_points = 4108 }
-		add_to_array = { state_victory_points = 7203 }
-		add_to_array = { state_victory_points = 5046 }
-		add_to_array = { state_victory_points = 11943 }
+		owner = SPA
+		add_core_of = SPA
+		#add_to_array = { state_victory_points = 4108 }
+		#add_to_array = { state_victory_points = 7203 }
+		#add_to_array = { state_victory_points = 5046 }
+		#add_to_array = { state_victory_points = 11943 }
 
 		victory_points = { 4108 3 } #Marrakesh
 		victory_points = { 7203 2 } #Agadir

@@ -6,9 +6,9 @@ state = {
 	local_supplies = 5.0
 
 	history = {
-		owner = ALB
-		add_core_of = ALB
-		add_to_array = { state_victory_points = 9780 }
+		owner = BUL
+		add_core_of = BUL
+		#add_to_array = { state_victory_points = 9780 }
 
 		victory_points = { 9780 3 } #Shkodër
 

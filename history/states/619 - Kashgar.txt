@@ -12,7 +12,7 @@ state = {
 	history = {
 		owner = SIK
 		add_core_of = SIK
-		add_to_array = { state_victory_points = 2015 } #Kashgar
+		#add_to_array = { state_victory_points = 2015 } #Kashgar
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

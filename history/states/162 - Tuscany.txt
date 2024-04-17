@@ -5,14 +5,12 @@ state = {
 	state_category = eight
 
 	history = {
-		owner = SRI
-		add_core_of = SRI
-		add_claim_by = ITA
-		add_claim_by = SRD
-		add_to_array = { state_victory_points = 9907 }
-		add_to_array = { state_victory_points = 6973 }
-		add_to_array = { state_victory_points = 11833 }
-		add_to_array = { state_victory_points = 6946 }
+		owner = ITA
+		add_core_of = ITA
+		#add_to_array = { state_victory_points = 9907 }
+		#add_to_array = { state_victory_points = 6973 }
+		#add_to_array = { state_victory_points = 11833 }
+		#add_to_array = { state_victory_points = 6946 }
 
 		victory_points = { 9907 20 } #Firenze
 		victory_points = { 6973 3 } #La Spezia

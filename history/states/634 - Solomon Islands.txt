@@ -9,8 +9,8 @@ state = {
 		add_claim_by = GEA
 		add_core_of = PNG
 
-		add_to_array = { state_victory_points = 1269 }
-		add_to_array = { state_victory_points = 4378 }
+		#add_to_array = { state_victory_points = 1269 }
+		#add_to_array = { state_victory_points = 4378 }
 
 		victory_points = { 1269 1 }
 		victory_points = { 4378 1 }

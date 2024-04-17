@@ -12,7 +12,7 @@ state = {
 	history = {
 		owner = GRE
 		add_core_of = GRE
-		add_to_array = { state_victory_points = 3914 }
+		#add_to_array = { state_victory_points = 3914 }
 
 		victory_points = { 3914 3 } #Ioannina
 

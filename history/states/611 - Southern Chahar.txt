@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = QIE
 		add_core_of = QIE
-		add_to_array = { state_victory_points = 10397 } #Zhangyuan
+		#add_to_array = { state_victory_points = 10397 } #Zhangyuan
 
 		buildings = {
 			infrastructure = 2

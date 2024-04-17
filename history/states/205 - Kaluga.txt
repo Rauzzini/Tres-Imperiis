@@ -9,8 +9,8 @@ state = {
 		owner = RUS
 		add_core_of = RUS
 		add_claim_by = TRM
-		add_to_array = { state_victory_points = 11254 }
-		add_to_array = { state_victory_points = 382 }
+		#add_to_array = { state_victory_points = 11254 }
+		#add_to_array = { state_victory_points = 382 }
 		victory_points = { 11254 3 }
 		victory_points = { 382 3 }
 		buildings = {

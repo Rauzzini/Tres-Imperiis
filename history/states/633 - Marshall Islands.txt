@@ -9,8 +9,8 @@ state = {
 		add_core_of = SSI
 		add_claim_by = GEA
 
-		add_to_array = { state_victory_points = 13041 }
-		add_to_array = { state_victory_points = 13046 }
+		#add_to_array = { state_victory_points = 13041 }
+		#add_to_array = { state_victory_points = 13046 }
 
 		victory_points = { 13041 1 }
 		victory_points = { 13046 1 }

@@ -12,7 +12,7 @@ state = {
 		owner = HOL
 		add_core_of = SUR
 		add_claim_by = HOL
-		add_to_array = { state_victory_points = 10906 }
+		#add_to_array = { state_victory_points = 10906 }
 
 		victory_points = { 10906 1 }
 

@@ -7,7 +7,7 @@ state = {
 	history = {
 		owner = BUL
 		add_core_of = BUL
-		add_to_array = { state_victory_points = 3796 }
+		#add_to_array = { state_victory_points = 3796 }
 		victory_points = { 3796 2 }
 
 		buildings = {

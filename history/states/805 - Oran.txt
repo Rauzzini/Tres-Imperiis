@@ -8,10 +8,10 @@ state = {
 		owner = NFA
 		add_core_of = NFA
 		add_core_of = ALG
-		add_to_array = { state_victory_points = 7132 }
-		add_to_array = { state_victory_points = 4150 }
-		add_to_array = { state_victory_points = 11923 }
-		add_to_array = { state_victory_points = 12020 }
+		#add_to_array = { state_victory_points = 7132 }
+		#add_to_array = { state_victory_points = 4150 }
+		#add_to_array = { state_victory_points = 11923 }
+		#add_to_array = { state_victory_points = 12020 }
 
 		buildings = {
 			infrastructure = 2

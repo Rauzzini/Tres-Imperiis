@@ -11,7 +11,7 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
-		add_to_array = { state_victory_points = 4518 }
+		#add_to_array = { state_victory_points = 4518 }
 
 		victory_points = { 4518 1 } #Fresno
 

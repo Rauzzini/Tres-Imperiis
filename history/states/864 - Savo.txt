@@ -11,13 +11,13 @@ state = {
 	history = {
 		owner = FIN
 		add_core_of = FIN
-		add_to_array = { state_victory_points = 11141 }
-		add_to_array = { state_victory_points = 37 }
-		add_to_array = { state_victory_points = 165 }
-		add_to_array = { state_victory_points = 3073 }
-		add_to_array = { state_victory_points = 3125 }
-		add_to_array = { state_victory_points = 6082 }
-		add_to_array = { state_victory_points = 9061 }
+		#add_to_array = { state_victory_points = 11141 }
+		#add_to_array = { state_victory_points = 37 }
+		#add_to_array = { state_victory_points = 165 }
+		#add_to_array = { state_victory_points = 3073 }
+		#add_to_array = { state_victory_points = 3125 }
+		#add_to_array = { state_victory_points = 6082 }
+		#add_to_array = { state_victory_points = 9061 }
 
 		victory_points = { 11141 2 } #Kuopio
 		victory_points = { 37 1 } #Savonlinna

@@ -13,10 +13,10 @@ state = {
 		owner = GEA
 		add_claim_by = GEA
 		add_core_of = VIN
-		add_to_array = { state_victory_points = 4379 }
-		add_to_array = { state_victory_points = 4397 }
-		add_to_array = { state_victory_points = 4405 }
-		add_to_array = { state_victory_points = 1605 }
+		#add_to_array = { state_victory_points = 4379 }
+		#add_to_array = { state_victory_points = 4397 }
+		#add_to_array = { state_victory_points = 4405 }
+		#add_to_array = { state_victory_points = 1605 }
 
 		victory_points = { 4379 3 } #Hue
 		victory_points = { 4397 1 } #Vinh

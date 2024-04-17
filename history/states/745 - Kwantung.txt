@@ -8,7 +8,7 @@ state = { #Dairen
 		owner = JAP
 		add_core_of = FNG
 		add_claim_by = JAP
-		add_to_array = { state_victory_points = 1150 } #Dalian
+		#add_to_array = { state_victory_points = 1150 } #Dalian
 
 		buildings = {
 			infrastructure = 2

@@ -8,8 +8,8 @@ state = {
 	history = {
 		owner = SQI
 		add_core_of = SQI
-		add_to_array = { state_victory_points = 1184 } #Weixian
-		add_to_array = { state_victory_points = 1104 } #Yantai
+		#add_to_array = { state_victory_points = 1184 } #Weixian
+		#add_to_array = { state_victory_points = 1104 } #Yantai
 
 		victory_points = { 1184 10 } #POP 3 + STRAT 1 + POL 0 = SIG 4
 		victory_points = { 1104 3 } #POP 1 + STRAT 1 + POL 0 = SIG 2

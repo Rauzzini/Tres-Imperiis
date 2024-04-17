@@ -9,7 +9,7 @@ state = {
 		add_core_of = PRF
 		add_claim_by = POR
 		add_claim_by = HND
-		add_to_array = { state_victory_points = 1273 }
+		#add_to_array = { state_victory_points = 1273 }
 		victory_points = { 1273 1 }
 		buildings = {
 			infrastructure = 2

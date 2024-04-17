@@ -11,10 +11,9 @@ state = {
 	}
 
 	history = {
-		owner = SER
-		add_core_of = SER
-		add_core_of = MNT
-		add_to_array = { state_victory_points = 9809 }
+		owner = BUL
+		add_core_of = BUL
+		#add_to_array = { state_victory_points = 9809 }
 
 		victory_points = { 9809 2 }
 
