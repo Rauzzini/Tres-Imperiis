@@ -1,0 +1,24 @@
+state = {
+    id = 1113
+    name = "STATE_1113"
+    manpower = 216277
+    state_category = five
+
+    history = {
+        owner = GER
+		add_core_of = GER
+		victory_points = { 11331 1 }
+        buildings = {
+			infrastructure = 3
+			dockyard = 1
+			air_base = 1
+			11331 = {
+				naval_base = 1
+			}
+		}
+    }
+
+    provinces = {
+        11331
+    }
+}

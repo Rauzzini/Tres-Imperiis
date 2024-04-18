@@ -5,9 +5,8 @@ state = {
 	state_category = one
 
 	history = {
-		owner = NFA
-		add_core_of = TUN
-		add_claim_by = NFA
+		owner = FNA
+		add_core_of = FNA
 		#add_to_array = { state_victory_points = 7005 }
 
 		buildings = {

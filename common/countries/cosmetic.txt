@@ -1,0 +1,8 @@
+BAT_russian = {
+    color = rgb { 51 88 50 }
+    color_ui = rgb { 51 88 50 }
+}
+LRU_russian = {
+    color = rgb { 20 159 15 }
+    color_ui = rgb { 20 159 15 }
+}

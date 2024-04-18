@@ -9,6 +9,8 @@ set_research_slots = 3
 set_technology = {
 }
 
+set_cosmetic_tag = BAT_russian
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1936.1.1"
